@@ -4,9 +4,9 @@ Project Objective
 
 Features
 
--🎥 Browse upcoming films with schedules and descriptions
+-🎥 Browse films with schedules and descriptions
 
--🎟️ Book tickets online with real-time seat availability
+-🎟️ Book tickets online with availability
 
 -👤 User registration and login system
 
@@ -14,7 +14,7 @@ Features
 
 -🛠️ Admin panel to manage films, showtimes, and bookings
 
--🌐 Responsive design for desktop and tablet screens
+-🌐 Responsive design for desktop 
 
 
 Technologies Used
